@@ -1,0 +1,7 @@
+Student_ID,Department,Attendance_Percentage,Study_Hours_Per_Day,Internet_Access,Python_Marks,Mathematics_Marks,Communication_Marks
+STU1012,EEE,59.1,0.9,Yes,50.9,59.6,66.3
+STU1012,ME,92.7,3.8,Yes,66.4,57.7,65.4
+STU1037,ECE,55.7,1.2,No,45.8,25.1,40.8
+STU1037,CSE,60.3,1.8,Yes,29.7,36.4,32.6
+STU1068,CSE,83.2,2.0,Yes,63.4,70.4,50.0
+STU1068,ECE,87.0,4.5,Yes,55.3,53.4,42.0

@@ -1,0 +1,24 @@
+STUDENT ACADEMIC PERFORMANCE ANALYTICS
+Descriptive analysis of a synthetic teaching dataset
+
+Source dataset: 02_student_performance.csv
+Original rows: 100
+Rows after duplicate-ID handling: 97
+Study-hours Pearson correlation: 0.480
+
+NumPy statistics (Python marks):
+count: 97
+median: 57.9
+population_std: 12.555082082080878
+q1: 48.2
+q2_median: 57.9
+q3: 64.9
+
+Recommendations:
+1. Provide targeted tutoring and regular progress checks for the 13 student(s) below the 40% average threshold.
+2. Monitor attendance and assessment performance together; contact students in lower-attendance bands early without assuming attendance alone causes results.
+3. Encourage structured study plans and review their effectiveness; the observed study-hours correlation is 0.48, which is descriptive rather than causal.
+4. Check whether students without internet access face barriers to digital resources; offer campus access or downloadable learning material where needed.
+5. Review subject-level marks and IQR-flagged scores individually before intervention; distinguish genuine unusual performance from data-entry issues.
+
+Interpretation note: associations are descriptive and do not establish causation.
